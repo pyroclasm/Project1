@@ -13,7 +13,7 @@ public class MyActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_my);
         int i = 2222;
-
+        int z = 21;
     }
 
 
