@@ -14,6 +14,7 @@ public class MyActivity extends ActionBarActivity {
         setContentView(R.layout.activity_my);
         int i = 2222;
         int z = 21;
+        int q = 333;
     }
 
 
